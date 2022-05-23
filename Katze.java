@@ -19,7 +19,7 @@ public class Katze{
 		return anzLeben;
 	}
 
-	
+	// Nur ein Kommentar, weil mir die Ideen ausgehen
 	public String toString() {
 		return "Katze " + name + " hat noch " + anzLeben + " Leben.";
 	}
