@@ -18,8 +18,10 @@ public class Katze{
 	public int getLeben(){
 		return anzLeben;
 	}
+
 	
 	public String toString() {
 		return "Katze " + name + " hat noch " + anzLeben + " Leben.";
 	}
+
 }
