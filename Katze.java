@@ -8,6 +8,7 @@ public class Katze{
 		name = pName;
 	}
 	
+	// und Nummer 4
 	public String getName() {
 		return name;
 	}
