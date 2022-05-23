@@ -11,6 +11,7 @@ public class Katze{
 		return name;
 	}
 	
+	// Noch ein Kommentar
 	public void lebenVerlieren(){
 		if (anzLeben > 0) anzLeben--;
 	}
