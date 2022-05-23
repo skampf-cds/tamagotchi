@@ -3,6 +3,7 @@ public class Katze{
 	private int anzLeben;
 	private String name;
 	
+	// Kommentar Nummer 3
 	public void setName(String pName) {
 		name = pName;
 	}
