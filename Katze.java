@@ -10,4 +10,12 @@ public class Katze{
 	public String getName() {
 		return name;
 	}
+	
+	public void lebenVerlieren(){
+		if (anzLeben > 0) anzLeben--;
+	}
+	
+	public int getLeben(){
+		return anzLeben;
+	}
 }
